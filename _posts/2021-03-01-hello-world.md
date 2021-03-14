@@ -1,6 +1,6 @@
 ---
-title:  "道码旦・由来"
-subtitle: "关注我们公众号/微博：codingirlsclub"
+title:  "大家好！我是刷日阿牛！"
+subtitle: "关注我们公众号/微博：强棒天使队"
 author: "吾塘"
 avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/001.jpg"
