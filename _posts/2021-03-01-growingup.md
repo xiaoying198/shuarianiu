@@ -1,6 +1,6 @@
 ---
 title:  "日记·今天我好像又长高了呢"
-subtitle: "关注我们公众号/微博：强榜天使队"
+subtitle: "关注我们公众号/微博：强棒天使队"
 author: "萧滢"
 avatar: "assets/images/qiangbang-logo.JPG"
 image: "assets/images/IMG_9499.JPG"
