@@ -6,6 +6,6 @@ avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/001.jpg"
 ---
 
-![阿牛-量身高](../assets/images/阿牛-量身高.GIF)
+![阿牛-量身高](assets/images/阿牛-量身高.GIF)
 
 小小身板，大大能量，小阿牛今天又长高了几厘米呢🤔️
