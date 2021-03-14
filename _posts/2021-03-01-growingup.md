@@ -2,7 +2,7 @@
 title:  "今天我好像又长高了呢"
 subtitle: "关注我们公众号/微博：强榜天使队"
 author: "吾塘"
-avatar: "assets/images/authors/logo.jpg"
+avatar: "assets/images/qiangbang-logo.JPG"
 image: "assets/images/001.jpg"
 ---
 
