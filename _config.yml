@@ -2,9 +2,9 @@
 baseurl: "/shuarianiu"
 
 # 网站的主标题
-title: "# hahaxiao"
+title: "hahaxiao"
 # 网站副标题
-subTitle: "# happy"
+subTitle: "happy"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
