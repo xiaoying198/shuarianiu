@@ -2,8 +2,8 @@
 title:  "自我介绍·大家好！我是刷日阿牛！"
 subtitle: "关注我们公众号/微博：强棒天使队"
 author: "吾塘"
-avatar: "assets/images/ziw01.jpg"
-image: "assets/images/ziw01.jpg"
+avatar: "assets/images/ziwo01.jpg"
+image: "assets/images/ziwo01.jpg"
 ---
 
 大家好！我是刷日阿牛，出生于2012.5.5，是一个沉稳的金牛座宝宝～
