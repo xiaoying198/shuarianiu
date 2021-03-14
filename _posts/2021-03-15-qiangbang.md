@@ -11,3 +11,5 @@ image: "assets/images/qiangbang-logo.JPG"
 ![qiangbang](https://media.bjnews.com.cn/image/2020/12/15/5002990118257109369.jpg)
 
 2019年12月，第一批女孩入驻强棒天使基地，至今已有26名女孩，最小的6岁，最大14岁。25个来自四川大凉山的彝族姑娘。她们分别组成了U10和U12年龄组，是中国第一支女子棒球队。
+
+![qiangbang](https://media.bjnews.com.cn/image/2020/12/15/5002990118622015087.jpg)
