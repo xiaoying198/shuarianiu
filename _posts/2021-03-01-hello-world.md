@@ -1,20 +1,26 @@
 ---
-title:  "【自我介绍】大家好！我是刷日阿牛！"
+title:  "自我介绍·大家好！我是刷日阿牛！"
 subtitle: "关注我们公众号/微博：强棒天使队"
 author: "吾塘"
-avatar: "assets/images/authors/logo.jpg"
-image: "assets/images/001.jpg"
+avatar: "assets/images/ziw01.jpg"
+image: "assets/images/ziw01.jpg"
 ---
 
 大家好！我是刷日阿牛，出生于2012.5.5，是一个沉稳的金牛座宝宝～
 
-![aniu](assets/images/authors/WEN08511.JPG)
+![ziwo01](assets/images/ziwo01.JPG)
 
 我是可爱的小淘气，萌娃小队员，是所有队员爱护的小妹妹，小小身板实力非凡，可以啃的了小苹果，扛的动110斤的大老师。
 
+![ziwo02](assets/images/ziwo02.JPG)
+
 我是2019年12月加入强棒基地的，我的老家在四川凉山州。
 
+![ziwo03](assets/images/ziwo03.JPG)
+
 我爱我的家乡，虽然在老家，我每天要扛着比人还重的柴火走很久很久的山路，但那里有我的亲人们呀～
+
+
 
 对了对了，我最喜欢的事情是画画，以后我想当一名会打棒球的画家！
 
