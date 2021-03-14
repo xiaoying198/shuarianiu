@@ -2,8 +2,8 @@
 title:  "自我介绍·大家好！我是刷日阿牛！"
 subtitle: "可爱的小淘气，萌娃小队员，是所有队员爱护的小妹妹，小小身板实力非凡，可以啃的了小苹果，扛的动110斤的大老师。"
 author: "强棒天使队"
-avatar: "assets/images/ziwo01.jpg"
-image: "assets/images/ziwo01.jpg"
+avatar: "assets/images/qiangbang-logo.JPG"
+image: "assets/images/女队-棒球.JPG"
 ---
 
 大家好！我是刷日阿牛，出生于2012.5.5，是一个沉稳的金牛座宝宝～
