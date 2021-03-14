@@ -8,4 +8,4 @@ image: "assets/images/001.jpg"
 
 
 haoo
-![aniu](assets/images/阿牛-量身高.GIF)
+![aniu](assets/images/authors/WEN08511.JPG)
