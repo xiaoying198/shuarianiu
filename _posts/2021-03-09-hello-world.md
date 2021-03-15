@@ -30,3 +30,4 @@ image: "assets/images/女队-棒球.JPG"
 
 如果你想认识我，快快来强榜基地找我玩吧！我和我的小伙伴们可以教你打棒球哦！
 
+![ziwo06](assets/images/IMG_9554.JPG)
